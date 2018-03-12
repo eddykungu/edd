@@ -1,0 +1,79 @@
+
+<meta name="keywords" content="brian, elly,shiti, ">
+
+p{text-align: center; 
+			color: #408080;
+      margin-right: 70px;
+      margin-left: 70px;
+
+		}
+		div{background-color: #0000ff;
+
+		}
+		li{display: inline;
+		   font-size: 40px;
+
+		}
+		a:hover{background-color: #00FF00;
+		}
+		li a{
+			padding: 8px 16px;
+			width: 60px;
+			display:inline;
+			border-radius: 5px;
+			list-style: none;
+			text-decoration: none;
+		}
+		ul{
+			display: inline;
+			padding: 0px;
+			margin: 0px;
+			list-style-type: none;
+			text-underline-position: none;
+		}
+		#isaac{text-align: right;color: #F54802}
+		.jonny img{   padding: 30px;
+                  width: 30px;
+                  background-color: green;
+                  size: 100%                  
+              }
+              .jonny{
+              	text-align: center;
+                width: 30%;
+                padding: 10px;
+                float: left;
+                background-color: green;
+
+              }
+         #jonnys{
+         	background-color: green;
+         	color: #000000;
+         	margin-top: 30px;
+         	display: block; 
+         }  
+         .footer{background-color: red
+                padding:20px
+                display: block;
+                text-align: center;
+                color: #ffffff
+         }
+         body{
+         	background-image: url("../pictures/th (1).jpg");
+         	background-repeat: no-repeat;
+         	background-size: 100%
+         }
+   #that{
+    font-family: Algerian;
+    background-color: #DAF7A6;
+    margin-right: 40px;
+    margin-left: 40px;
+    color: #900C3F;
+   }
+#tony{ background-image: url(../pictures/th.jpg);
+       background-repeat: no-repeat;
+       size: 100%;
+ 
+}
+h1:hover{
+  background-color: blue;
+}

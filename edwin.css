@@ -1,0 +1,41 @@
+#sammy{
+	background-image: url(pic/IMG-20180117-WA0001.jpg);
+	background-repeat: no-repeat;
+	background-size: 100%
+}
+ul{
+	display:inline;
+}
+h1{
+	text-align: center;
+	color: red;
+}
+h2{
+	text-align: center;
+	color: red;
+}
+button{width: 60%;
+       margin-left: 15%;
+       margin-right: 15%;
+	
+}
+#sweet{
+	text-align: center;
+	margin-right: 30%;
+	margin-left: 30%;
+}
+#footer{
+	background-color: black;
+}
+body{
+	margin-right: 30%;
+	margin-left: 30%;
+}
+#bin{
+	background-color: orange;
+	font-size: 09px;
+}
+#bean{
+	background-color: blue;
+	font-size: 09px;
+}
